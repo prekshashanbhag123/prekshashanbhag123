@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 - **Image Classification using CNNs and Handcrafted Features**  
   Built image recognition models using HOG, SIFT, and CNN architectures.
 
-- **Multimodal AI System for Design Analysis**  
-  Developed a system combining computer vision and large language models for multimodal reasoning.
+
+- **AI Chatbot for Stock Market Analysis**  
+  Developed an AI-powered chatbot integrated with a Neo4j graph database to analyze stock market transactions and identify trading patterns.
+
 
 - **Stock Return Prediction Pipeline**  
   Implemented machine learning models (Linear, Ridge, Lasso, Random Forest) to forecast financial returns.
